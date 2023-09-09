@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lynet101
-- 👀 I’m interested in Data science and Neural network
-- 🌱 I’m currently learning Python programming and Development of deep learning AIs
+- 👀 I’m interested in Quantum mechanics, and enjoy helping the FOSS community, as much as i can
+- 🌱 I’m currently learning Python programming
 - Contact info: mail: lynet101.dev@gmail.com | Reddit: Deleted 
 
 <!---
