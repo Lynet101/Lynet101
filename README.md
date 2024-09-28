@@ -1,6 +1,10 @@
-- 👋 Hi, I’m @Lynet101
-- 👀 I’m interested in robotics, and enjoy helping the FOSS community, as much as i can
-- 🌱 I’m currently learning Python programming
+Cyber and computer technology B.Sc student @ Aalborg university (AAU)
+Languages I know (in descending order of skills):
+  - Python
+  - Rust
+  - C / C++
+  - Javascript / Typescript
+  - Java 🤮
 - Contact info: mail: lynet101.dev@gmail.com | Reddit: lynet101
 
 <!---
