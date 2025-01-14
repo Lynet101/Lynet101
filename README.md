@@ -9,8 +9,8 @@ Languages I know (in descending order of skills):
 
 
 Contact me:
-  - [Mail](slindauskands@gmail.com)
-  - [LinkedIn](www.linkedin.com/in/sebastian-lindau-skands-b8b925238)
+  - [Mail](mailto:slindauskands@gmail.com)
+  - [LinkedIn](https://www.linkedin.com/in/sebastian-lindau-skands-b8b925238)
 
 
 <!---
