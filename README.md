@@ -1,11 +1,11 @@
 ## Cyber and computer technology B.Sc student @ Aalborg university (AAU)
 
 Languages I know (in descending order of skills):
+  - C
   - Python
+  - JS / TS
   - Rust
-  - C / C++
-  - Javascript / Typescript
-  - Java 🤮
+  - C#
 
 
 Contact me:
