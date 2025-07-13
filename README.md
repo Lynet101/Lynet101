@@ -4,7 +4,7 @@ Languages I know (in descending order of skills):
   - C
   - Python
   - JS / TS
-  - Rust
+  - Zig
   - C#
 
 
