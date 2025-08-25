@@ -44,7 +44,7 @@ I'm a Computer engineer
 ![](https://img.shields.io/badge/Networks-IPv6-informational?style=for-the-badge&logo=IPv6&color=00BFFF)
 ![](https://img.shields.io/badge/Networks-Wireguard-informational?style=for-the-badge&logo=Wireguard&color=881177)
 ![](https://img.shields.io/badge/Networks-pfSense-informational?style=for-the-badge&logo=pfSense&color=4F5B93)
-![](https://img.shields.io/badge/Networks-Junos-informational?style=for-the-badge&logo=Juniper&color=0093D1
+![](https://img.shields.io/badge/Networks-Junos-informational?style=for-the-badge&logo=Juniper&color=0093D1)
 
 ## Virtualization
 ![](https://img.shields.io/badge/Virtu-VirtualBox-informational?style=for-the-badge&logo=VirtualBox&color=183A61)
