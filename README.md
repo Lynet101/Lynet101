@@ -22,8 +22,7 @@ I'm a Computer engineer
 ![](https://img.shields.io/badge/OS-Android-informational?style=for-the-badge&logo=Android&color=3DDC84)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=for-the-badge&logo=Windows&color=0078D6)
 
-## Programming Languages
-From most to least confident
+## Programming Languages (From most to least confident)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Apache Groovy](https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white)
@@ -55,4 +54,4 @@ From most to least confident
 ![](https://img.shields.io/badge/Virtu-PVE-informational?style=for-the-badge&logo=Proxmox-VE&color=E57000)
 ![](https://img.shields.io/badge/Virtu-libvirt-informational?style=for-the-badge&logo=libvirt&color=FF6600)
 ![](https://img.shields.io/badge/docker-257bd6?style=for-the-badge&logo=docker&logoColor=white)
-![](https://img.shields.io/badge/kubernetes-326CE5?style=plastic&logo=kubernetes&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
