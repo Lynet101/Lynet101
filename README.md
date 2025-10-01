@@ -10,6 +10,7 @@ I'm a Computer engineer
 
 <a href="https://lynet101.dk">My website</a>
 <a href="https://www.linkedin.com/in/sebastian-lindau-skands-b8b925238/">LinkedIn</a>
+<a href="mailto:development@lynet101.dk">development@lynet101.dk</a>
 </br>
 
 ## What I use
