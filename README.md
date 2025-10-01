@@ -23,29 +23,31 @@ I'm a Computer engineer
 ![](https://img.shields.io/badge/OS-Windows-informational?style=for-the-badge&logo=Windows&color=0078D6)
 
 ## Programming Languages
-![](https://img.shields.io/badge/Code-HTML5-informational?style=for-the-badge&logo=HTML5&color=E34F26)
-![](https://img.shields.io/badge/Code-CSS3-informational?style=for-the-badge&logo=CSS3&color=1572B6)
-![](https://img.shields.io/badge/Code-Markdown-informational?style=for-the-badge&logo=Markdown&color=000000)
-![](https://img.shields.io/badge/Code-C-informational?style=for-the-badge&logo=C&color=A8B9CC)
-![](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
-![](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
-![](https://img.shields.io/badge/C%23-239120?style=flat&logo=unity&logoColor=white)
-![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square)
-![](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)
+From most to least confident
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Apache Groovy](https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ## Tools
 ![](https://img.shields.io/badge/Tools-Git-informational?style=for-the-badge&logo=Git&color=F05032)
 ![](https://img.shields.io/badge/Tools-Vim-informational?style=for-the-badge&logo=Vim&color=019733)
 ![](https://img.shields.io/badge/Tools-SSH-informational?style=for-the-badge&logo=OpenSSH&color=2D9CDB)
 ![](https://img.shields.io/badge/Tools-VSCode-informational?style=for-the-badge&logo=Visual-Studio-Code&color=007ACC)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ## Networking
 ![](https://img.shields.io/badge/Networks-IPv4-informational?style=for-the-badge&logo=IPv4&color=4B8BBE)
 ![](https://img.shields.io/badge/Networks-IPv6-informational?style=for-the-badge&logo=IPv6&color=00BFFF)
 ![](https://img.shields.io/badge/Networks-Wireguard-informational?style=for-the-badge&logo=Wireguard&color=881177)
 ![](https://img.shields.io/badge/Networks-pfSense-informational?style=for-the-badge&logo=pfSense&color=4F5B93)
-![](https://img.shields.io/badge/Networks-Junos-informational?style=for-the-badge&logo=Juniper&color=0093D1)
+![Ubiquiti](https://img.shields.io/badge/ubiquiti-%230559C9.svg?style=for-the-badge&logo=ubiquiti&logoColor=white)
 
 ## Virtualization
 ![](https://img.shields.io/badge/Virtu-VirtualBox-informational?style=for-the-badge&logo=VirtualBox&color=183A61)
