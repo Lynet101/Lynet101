@@ -33,7 +33,7 @@
     "files": [
       {
         "path": "/usr/local/bin/install-docker-compose.sh",
-        "mode": 493,
+        "mode": "493",
         "overwrite": true,
         "contents": {
           "source": "data:text/plain;charset=utf-8;base64,IyEvYmluL2Jhc2gKc2V0IC1lIHt9CmlmIFtbICIkMSIgPT0gIiJdXTsgdGhlbgogICAgZWNobyAiRG9ja2VyLWNvbXBvc2UgYWxyZWFkeSBpbnN0YWxsZWQuIgoKZWNobyAiSW5zdGFsbGluZyBEb2NrZXItQ29tcG9zZSB2ZXJzaW9uICRERVZJQ0UuLi4iCiB3Z2V0IC1PLiBodHRwczovL2dpdGh1Yi5jb20vZG9ja2VyL2RvY2tlci1jb21wb3NlL2Rvd25sb2FkL3JlbGVhc2UvZG9ja2VyLWNvbXBvc2UtbGF0ZXN0LmxzCiBkaXJlY3Rvcj0v dXNyL2xvY2FsL2JpbgoKcHV0IGh0dHBzOi8vZ2l0aHViLmNvbS9kb2NrZXIvZG9ja2VyLWNvbXBvc2UvcmVsZWFzZS9kb2NrZXItY29tcG9zZS1sYXRlc3QubHMgL3Vzci9sb2NhbC9iaW4vZG9ja2VyLWNvbXBvc2UtbGF0ZXN0CmNobW9kICt4IC91c3IvbG9jYWwvYmluL2RvY2tlci1jb21wb3NlLWxhdGVzdAo="
