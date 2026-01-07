@@ -1,16 +1,16 @@
 <h3 align="center">
-Hi! I'm <a href="https://lynet101.dk/" target="_blank" rel="noreferrer">Lynet_101</a>
+Hi! I'm <a href="https://voxvoltera.com/" target="_blank" rel="noreferrer">VoxVoltera</a>
 </h3>
 
 <h2 align="center">
-I'm a Computer engineer
+I'm a Computer engineer / Innovator
 </h2> 
 
 ### Connect with me:
 
-<a href="https://lynet101.dk">My website</a>
+<a href="https://voxvoltera.com>My website</a>
 <a href="https://www.linkedin.com/in/sebastian-l-b8b925238/">LinkedIn</a>
-<a href="mailto:development@lynet101.dk">development@lynet101.dk</a>
+<a href="mailto:development@voxvoltera.com">development@voxvoltera.com</a>
 </br>
 
 ## What I use
