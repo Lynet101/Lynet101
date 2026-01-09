@@ -9,7 +9,6 @@ I'm a Computer engineer / Innovator
 ### Connect with me:
 
 <a href="https://voxvoltera.com">My website</a>
-<a href="https://www.linkedin.com/in/sebastian-l-b8b925238/">LinkedIn</a>
 <a href="mailto:development@voxvoltera.com">development@voxvoltera.com</a>
 </br>
 
